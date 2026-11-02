@@ -230,3 +230,25 @@ box-sizing: border-box;
     display: block;
     box-shadow: 0 10px 30px #00000055;
 }
+
+
+/* Realistic Moonlit Garden */
+
+.garden-scene {
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    margin: 35px auto;
+    overflow: hidden;
+    border-radius: 25px;
+    background: #17152e;
+}
+
+.moonlit-garden-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
+    box-shadow: 0 0 35px rgba(255, 220, 170, 0.25);
+}
